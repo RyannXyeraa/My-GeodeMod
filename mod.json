@@ -1,6 +1,8 @@
 {
-  "id":"com.namamu.modpertama",
-  "name":"Mod Pertama",
-  "version":"v1.0.0",
-  "developer":"Namamu"
+  "id": "com.ryannxyeraa.bestmod",
+  "name": "Xyeraa",
+  "version": "v1.0.0",
+  "developer": "RyannXyeraa",
+  "geode": "v4.0.0",
+  "description": "My First Geode Mod"
 }
